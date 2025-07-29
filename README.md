@@ -39,19 +39,17 @@ Olá! Sou estudante de desenvolvimento Full Stack há 4 meses, sempre buscando a
 - Interface intuitiva
 - Scripts otimizados em Lua
 - Foco em performance e usabilidade
-- Apoio de IA para pesquisa e automação
 
 ## 3. Administração de Servidores (CentOS/Red Hat)
 
 <img src="https://img.shields.io/badge/CentOS-262577?logo=centos&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/Red%20Hat-EE0000?logo=redhat&logoColor=white" height="20"/>
 
-Experiência prática em administração de servidores VPS e dedicados, focado em hospedagem profissional com CentOS e Red Hat. Utilizei IA para automatizar tarefas, buscar comandos e garantir segurança.
+Experiência prática em administração de servidores VPS e dedicados, focado em hospedagem profissional com CentOS e Red Hat.
 
 **Destaques:**
 - Gerenciamento de servidores CentOS e Red Hat
 - Configuração, segurança e otimização
 - Suporte para ambientes de hospedagem de alta disponibilidade
-- Automação e pesquisa com IA
 
 ---
 
