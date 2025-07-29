@@ -82,4 +82,4 @@ Estudante de Full Stack, SysAdmin & Game Dev
 
 ---
 
-*Este README foi criado para destacar meus principais projetos e competências enquanto estudo e evoluo como desenvolvedor. Fique à vontade para entrar em contato!*
+*Este README foi criado para destacar meus principais projetos e competências enquanto estudo e evoluo como desenvolvedor. Fique à vontade para entrar em contato!!!*
